@@ -5,7 +5,6 @@ A student management application designed to help university students organize t
 Make university life easier and more organized.
 
 ✨ Planned Features
-
 - 📅 Class schedule management
 - 📝 Assignment tracking
 - 📚 Exam organization
